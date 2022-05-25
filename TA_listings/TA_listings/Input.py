@@ -1,0 +1,1 @@
+url_input = "https://www.tripadvisor.com/Hotels-g189541-Copenhagen_Zealand-Hotels.html"
